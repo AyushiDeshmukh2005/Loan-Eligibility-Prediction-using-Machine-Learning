@@ -33,16 +33,16 @@ Implemented using pipeline with missing value handling
 Built using entropy criterion
 Also tested with limited depth for optimization
 
-## **Evaluation Metrics**
-1.Accuracy Score
-2.Confusion Matrix
-These metrics help evaluate how well the models perform on unseen data.
+## **Evaluation Metrics**<br>
+1.Accuracy Score<br>
+2.Confusion Matrix<br>
+These metrics help evaluate how well the models perform on unseen data. <br>
 <img width="655" height="504" alt="image" src="https://github.com/user-attachments/assets/56e593bb-3393-4079-9505-6862ef146d81" />
 
-## **Results**
-1.Multiple models were trained and compared
-2.Naive Bayes showed effective performance
-3.Accuracy scores and confusion matrices were used for comparison
+## **Results** <br>
+1.Multiple models were trained and compared<br>
+2.Naive Bayes showed effective performance<br>
+3.Accuracy scores and confusion matrices were used for comparison<br>
 <img width="686" height="234" alt="image" src="https://github.com/user-attachments/assets/ce0afd7c-6269-45ae-880f-0340d4e2c346" />
 
 
