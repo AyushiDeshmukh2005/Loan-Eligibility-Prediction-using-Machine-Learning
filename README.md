@@ -1,10 +1,7 @@
 # Loan-Eligibility-Prediction-using-Machine-Learning
-A Machine Learning project that predicts whether a loan will be approved or rejected based on applicant details such as income, credit history, education and employment. It uses models like Logistic Regression, Naive Bayes and Decision Tree to classify loan status and evaluate performance using accuracy and confusion matrix.
 
-Loan Prediction using Machine Learning
 Overview
-This project focuses on predicting loan approval status using Machine Learning algorithms. It involves data preprocessing, feature selection, model training, and performance evaluation.
-The goal is to build models that can accurately classify whether a loan will be approved or not.
+A Machine Learning project that predicts whether a loan will be approved or rejected based on applicant details such as income, credit history, education and employment. It uses models like Logistic Regression, Naive Bayes and Decision Tree to classify loan status and evaluate performance using accuracy and confusion matrix. The goal is to build models that can accurately classify whether a loan will be approved or not.
 
 Technologies Used
 Python
