@@ -4,12 +4,12 @@ Overview
 A Machine Learning project that predicts whether a loan will be approved or rejected based on applicant details such as income, credit history, education and employment. It uses models like Logistic Regression, Naive Bayes and Decision Tree to classify loan status and evaluate performance using accuracy and confusion matrix. The goal is to build models that can accurately classify whether a loan will be approved or not.
 
 Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+1. Python
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. Scikit-learn
 
 Project Workflow
 1. Data Loading
@@ -34,15 +34,15 @@ Built using entropy criterion
 Also tested with limited depth for optimization
 
 Evaluation Metrics
-Accuracy Score
-Confusion Matrix
+1.Accuracy Score
+2.Confusion Matrix
 These metrics help evaluate how well the models perform on unseen data.
 <img width="655" height="504" alt="image" src="https://github.com/user-attachments/assets/56e593bb-3393-4079-9505-6862ef146d81" />
 
 Results
-Multiple models were trained and compared
-Naive Bayes showed effective performance
-Accuracy scores and confusion matrices were used for comparison
+1.Multiple models were trained and compared
+2.Naive Bayes showed effective performance
+3.Accuracy scores and confusion matrices were used for comparison
 <img width="686" height="234" alt="image" src="https://github.com/user-attachments/assets/ce0afd7c-6269-45ae-880f-0340d4e2c346" />
 
 
